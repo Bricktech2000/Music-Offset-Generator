@@ -1,7 +1,7 @@
 Music Offset Generator
 ======================
 
-A program to... generate a music offset
+A program that... generates a music offset
 
 Overview
 --------
