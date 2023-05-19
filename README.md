@@ -1,25 +1,20 @@
-Music Offset Generator
-======================
+# Music Offset Generator
 
-A program that... generates a music offset
+_A program that... generates a music offset_
 
-Overview
---------
+## Overview
 
 This program is used to create an offset of the music played in each of the two audio channels (the right and left ears) and optionally modify their volumes (or gains). The purpose of this program can seem quite vague, but it simiply allows one to predict the next 4 or 8 beats of a song by listening carefully in their left ear. For example, when flying FPV drones over a specific song, it is way easier to know in advance that, for instance, a beat drop will occur, allowing the pilot to adapt their flying style accordingly. However, it is not limited to FPV drones: anything that requires music synchronization could benefit from this program if used properly.
 
-Requirements
-------------
+## Requirements
 
-* Any browser with HTML5 support
+- Any browser with HTML5 support
 
-Setup
------
+## Setup
 
 No special setup is needed. Simply open up `index.html` in a web browser to use the software.
 
-How to use it
--------------
+## How to use it
 
 1. Choose a music file to open
 2. Enter the song's BPM value (can be calculated using a website such as [conversion-tool's BPM detector](https://www.conversion-tool.com/bpmdetector/))
